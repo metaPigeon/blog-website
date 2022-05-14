@@ -3,6 +3,7 @@ slug: long-blog-post
 title: Long Blog Post
 authors: endi
 tags: [hello, docusaurus]
+img: https://rmt.dogedoge.com/fetch/fluid/storage/hello-fluid/cover.png?w=480&fmt=webp
 ---
 
 This is the summary of a very long blog post,

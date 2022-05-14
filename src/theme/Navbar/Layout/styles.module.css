@@ -1,0 +1,17 @@
+.navbarHideable {
+  transition: transform var(--ifm-transition-fast) ease;
+}
+
+.navbarHidden {
+  transform: translate3d(0, calc(-100% - 2px), 0);
+}
+
+.navbarWrapper {
+  height: 70vh;
+}
+.banner {
+  height: 100%;
+  max-height: 100vw;
+  background: url("https://rmt.dogedoge.com/fetch/fluid/storage/bg/dojm2h.png?w=1920&q=100&fmt=webp") center center / cover no-repeat;
+  /* transform: translate3d(0px, 40px, 0px); */
+}
